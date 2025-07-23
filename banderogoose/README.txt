@@ -18,7 +18,7 @@ A stylish landing page created as part of a free marathon by GOIT.
 
 ## 🚀 Live Demo
 
-🔗 [https://bandero-goose11.netlify.app](https://bandero-goose11.netlify.app)
+🔗 https://bandero-goose11.netlify.app
 
 ---
 
